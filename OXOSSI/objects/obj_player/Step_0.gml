@@ -12,9 +12,9 @@ var verMove = (down - up);
 hsp = horMove * 0.75;
 vsp = verMove * 0.75;
 
-if (!place_meeting(x + hsp, y, obj_wall)) {
+if (!place_meeting(x + hsp, y, [obj_wall, obj_arvore])) {
     x += hsp;
 }
-if (!place_meeting(x, y + vsp, obj_wall)) {
+if (!place_meeting(x, y + vsp, [obj_wall, obj_arvore])) {
     y += vsp;
 }
