@@ -63,7 +63,6 @@
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"obj_estatua","path":"objects/obj_estatua/obj_estatua.yy",},},
-    {"id":{"name":"Sprite27","path":"sprites/Sprite27/Sprite27.yy",},},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},},
     {"id":{"name":"spr_personagem_parado_cima","path":"sprites/spr_personagem_parado_cima/spr_personagem_parado_cima.yy",},},
     {"id":{"name":"spr_personagem_correndo_direita","path":"sprites/spr_personagem_correndo_direita/spr_personagem_correndo_direita.yy",},},

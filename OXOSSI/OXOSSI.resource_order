@@ -44,7 +44,6 @@
     {"name":"spr_personagem_correndo_esquerda","order":10,"path":"sprites/spr_personagem_correndo_esquerda/spr_personagem_correndo_esquerda.yy",},
     {"name":"obj_wall","order":2,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"obj_estatua","order":6,"path":"objects/obj_estatua/obj_estatua.yy",},
-    {"name":"Sprite27","order":16,"path":"sprites/Sprite27/Sprite27.yy",},
     {"name":"spr_wall","order":1,"path":"sprites/spr_wall/spr_wall.yy",},
     {"name":"spr_personagem_parado_cima","order":6,"path":"sprites/spr_personagem_parado_cima/spr_personagem_parado_cima.yy",},
     {"name":"spr_personagem_correndo_direita","order":9,"path":"sprites/spr_personagem_correndo_direita/spr_personagem_correndo_direita.yy",},
