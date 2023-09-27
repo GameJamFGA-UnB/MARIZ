@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object10",
+  "name": "obj_estrutura_grande_vinhas_1",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_estrutura_grande_de_pedra_2_vinhas",
+    "path": "sprites/spr_estrutura_grande_de_pedra_2_vinhas/spr_estrutura_grande_de_pedra_2_vinhas.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
