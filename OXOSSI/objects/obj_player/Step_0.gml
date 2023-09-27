@@ -17,17 +17,17 @@ var verMove = (down - up);
 hvelo = horMove * 0.75;
 vvelo = verMove * 0.75;
 
-if (!place_meeting(x + hvelo, y, obj_macaco)) {
+if !place_meeting(x + hvelo, y, obj_macaco) {
     x += hvelo;
 }
-if (!place_meeting(x, y + vvelo, obj_macaco)) {
+if !place_meeting(x, y + vvelo, obj_macaco) {
     y += vvelo;
 }
 
-if (!place_meeting(x + hvelo, y, obj_wall)) {
+if !place_meeting(x + hvelo, y, obj_wall) {
     x += hvelo;
 }
-if (!place_meeting(x, y + vvelo, obj_wall)) {
+if !place_meeting(x, y + vvelo, obj_wall) {
     y += vvelo;
 }
 
