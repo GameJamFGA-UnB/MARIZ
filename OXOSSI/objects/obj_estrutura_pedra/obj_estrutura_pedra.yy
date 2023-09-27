@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_arvore",
+  "name": "obj_estrutura_pedra",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -25,10 +25,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_arvore",
-    "path": "sprites/spr_arvore/spr_arvore.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

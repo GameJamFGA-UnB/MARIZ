@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_arvore",
+  "name": "obj_estatua",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_arvore",
-    "path": "sprites/spr_arvore/spr_arvore.yy",
+    "name": "spr_estatua_oxossi",
+    "path": "sprites/spr_estatua_oxossi/spr_estatua_oxossi.yy",
   },
   "spriteMaskId": null,
   "visible": true,
