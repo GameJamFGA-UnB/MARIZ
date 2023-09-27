@@ -16,8 +16,8 @@
     "path": "folders/Tile Sets.yy",
   },
   "spriteId": {
-    "name": "estrada",
-    "path": "sprites/estrada/estrada.yy",
+    "name": "spr_estrada",
+    "path": "sprites/spr_estrada/spr_estrada.yy",
   },
   "spriteNoExport": false,
   "textureGroupId": {

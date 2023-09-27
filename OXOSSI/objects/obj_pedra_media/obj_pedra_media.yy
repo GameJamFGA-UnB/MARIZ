@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_pedra_media",
+    "path": "sprites/spr_pedra_media/spr_pedra_media.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
