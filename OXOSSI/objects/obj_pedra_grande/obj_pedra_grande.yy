@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_estrutura_pedra",
+  "name": "obj_pedra_grande",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_estrutura_de_pedra_1",
-    "path": "sprites/spr_estrutura_de_pedra_1/spr_estrutura_de_pedra_1.yy",
+    "name": "spr_pedra_grande",
+    "path": "sprites/spr_pedra_grande/spr_pedra_grande.yy",
   },
   "spriteMaskId": null,
   "visible": true,

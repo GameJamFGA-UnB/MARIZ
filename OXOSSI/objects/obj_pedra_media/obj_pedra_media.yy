@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_estrutura_pedra",
+  "name": "obj_pedra_media",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -25,10 +25,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_estrutura_de_pedra_1",
-    "path": "sprites/spr_estrutura_de_pedra_1/spr_estrutura_de_pedra_1.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

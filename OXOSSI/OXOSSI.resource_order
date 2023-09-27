@@ -24,6 +24,8 @@
     {"name":"spr_personagem_parado_direita","order":12,"path":"sprites/spr_personagem_parado_direita/spr_personagem_parado_direita.yy",},
     {"name":"spr_interact","order":3,"path":"sprites/spr_interact/spr_interact.yy",},
     {"name":"spr_personagem_frente","order":14,"path":"sprites/spr_personagem_frente/spr_personagem_frente.yy",},
+    {"name":"obj_pedra_grande","order":8,"path":"objects/obj_pedra_grande/obj_pedra_grande.yy",},
+    {"name":"obj_pedra_media","order":9,"path":"objects/obj_pedra_media/obj_pedra_media.yy",},
     {"name":"spr_arvore","order":18,"path":"sprites/spr_arvore/spr_arvore.yy",},
     {"name":"spr_macaco_spr_strip4","order":13,"path":"sprites/spr_macaco_spr_strip4/spr_macaco_spr_strip4.yy",},
     {"name":"spr_textbox","order":4,"path":"sprites/spr_textbox/spr_textbox.yy",},

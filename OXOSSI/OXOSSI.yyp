@@ -43,6 +43,8 @@
     {"id":{"name":"spr_personagem_parado_direita","path":"sprites/spr_personagem_parado_direita/spr_personagem_parado_direita.yy",},},
     {"id":{"name":"spr_interact","path":"sprites/spr_interact/spr_interact.yy",},},
     {"id":{"name":"spr_personagem_frente","path":"sprites/spr_personagem_frente/spr_personagem_frente.yy",},},
+    {"id":{"name":"obj_pedra_grande","path":"objects/obj_pedra_grande/obj_pedra_grande.yy",},},
+    {"id":{"name":"obj_pedra_media","path":"objects/obj_pedra_media/obj_pedra_media.yy",},},
     {"id":{"name":"spr_arvore","path":"sprites/spr_arvore/spr_arvore.yy",},},
     {"id":{"name":"spr_macaco_spr_strip4","path":"sprites/spr_macaco_spr_strip4/spr_macaco_spr_strip4.yy",},},
     {"id":{"name":"spr_textbox","path":"sprites/spr_textbox/spr_textbox.yy",},},
