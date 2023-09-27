@@ -25,7 +25,7 @@
     {"name":"spr_personagem_frente","order":14,"path":"sprites/spr_personagem_frente/spr_personagem_frente.yy",},
     {"name":"spr_macaco_spr_strip4","order":13,"path":"sprites/spr_macaco_spr_strip4/spr_macaco_spr_strip4.yy",},
     {"name":"spr_textbox","order":4,"path":"sprites/spr_textbox/spr_textbox.yy",},
-    {"name":"Object4","order":4,"path":"objects/Object4/Object4.yy",},
+    {"name":"obj_macaco","order":4,"path":"objects/obj_macaco/obj_macaco.yy",},
     {"name":"spr_personagem_parado_esquerda","order":11,"path":"sprites/spr_personagem_parado_esquerda/spr_personagem_parado_esquerda.yy",},
     {"name":"spr_personagem_costas","order":15,"path":"sprites/spr_personagem_costas/spr_personagem_costas.yy",},
     {"name":"spr_personagem_correndo_baixo","order":7,"path":"sprites/spr_personagem_correndo_baixo/spr_personagem_correndo_baixo.yy",},
