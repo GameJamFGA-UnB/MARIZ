@@ -28,6 +28,7 @@
     {"name":"obj_interact","order":3,"path":"objects/obj_interact/obj_interact.yy",},
     {"name":"spr_estrutura_de_pedra_1","order":23,"path":"sprites/spr_estrutura_de_pedra_1/spr_estrutura_de_pedra_1.yy",},
     {"name":"spr_mato","order":25,"path":"sprites/spr_mato/spr_mato.yy",},
+    {"name":"obj_toco","order":37,"path":"objects/obj_toco/obj_toco.yy",},
     {"name":"obj_estrutura_grande","order":16,"path":"objects/obj_estrutura_grande/obj_estrutura_grande.yy",},
     {"name":"obj_estrutura_grande_1","order":18,"path":"objects/obj_estrutura_grande_1/obj_estrutura_grande_1.yy",},
     {"name":"obj_casao","order":25,"path":"objects/obj_casao/obj_casao.yy",},

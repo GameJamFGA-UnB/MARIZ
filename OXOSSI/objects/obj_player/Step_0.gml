@@ -21,12 +21,12 @@ var inBoundsX = x + hvelo > 0 and x + hvelo < room_width;
 var inBoundsY = y + vvelo > 0 and y + vvelo < room_height;
 
 if inBoundsX and !place_meeting(x + hvelo, y, [obj_macaco,
-	obj_arbusto, obj_arvore, obj_arvore_grande, obj_arvore_pequena, obj_casao,	obj_casao_detonado, obj_casinha, obj_casinha_detonado, obj_casinhao, obj_casinhao_detonado, obj_civilizado, obj_estatua, obj_estrutura_grande, obj_estrutura_grande_1, obj_estrutura_grande_vinhas, obj_estrutura_grande_vinhas_1, obj_estrutura_pedra, obj_estrutura_pedra_2, obj_estrutura_pedra_vinha, obj_estrutura_pedra_vinhas_2, obj_eucalipto, obj_eucaliptozinho, obj_indigena_femea, obj_indigena_macho, obj_macaco, obj_pedra_grande, obj_pedra_media, obj_pinheiro, 
+	obj_arbusto, obj_arvore, obj_arvore_grande, obj_arvore_pequena, obj_casao,	obj_casao_detonado, obj_casinha, obj_casinha_detonado, obj_casinhao, obj_casinhao_detonado, obj_civilizado, obj_estatua, obj_estrutura_grande, obj_estrutura_grande_1, obj_estrutura_grande_vinhas, obj_estrutura_grande_vinhas_1, obj_estrutura_pedra, obj_estrutura_pedra_2, obj_estrutura_pedra_vinha, obj_estrutura_pedra_vinhas_2, obj_eucalipto, obj_eucaliptozinho, obj_indigena_femea, obj_indigena_macho, obj_macaco, obj_pedra_grande, obj_pedra_media, obj_pinheiro, obj_toco
 	])  {
     x += hvelo;
 }
 if inBoundsY and !place_meeting(x, y + vvelo, [obj_macaco,
-	obj_arbusto, obj_arvore, obj_arvore_grande, obj_arvore_pequena, obj_casao,	obj_casao_detonado, obj_casinha, obj_casinha_detonado, obj_casinhao, obj_casinhao_detonado, obj_civilizado, obj_estatua, obj_estrutura_grande, obj_estrutura_grande_1, obj_estrutura_grande_vinhas, obj_estrutura_grande_vinhas_1, obj_estrutura_pedra, obj_estrutura_pedra_2, obj_estrutura_pedra_vinha, obj_estrutura_pedra_vinhas_2, obj_eucalipto, obj_eucaliptozinho, obj_indigena_femea, obj_indigena_macho, obj_macaco, obj_pedra_grande, obj_pedra_media, obj_pinheiro, 
+	obj_arbusto, obj_arvore, obj_arvore_grande, obj_arvore_pequena, obj_casao,	obj_casao_detonado, obj_casinha, obj_casinha_detonado, obj_casinhao, obj_casinhao_detonado, obj_civilizado, obj_estatua, obj_estrutura_grande, obj_estrutura_grande_1, obj_estrutura_grande_vinhas, obj_estrutura_grande_vinhas_1, obj_estrutura_pedra, obj_estrutura_pedra_2, obj_estrutura_pedra_vinha, obj_estrutura_pedra_vinhas_2, obj_eucalipto, obj_eucaliptozinho, obj_indigena_femea, obj_indigena_macho, obj_macaco, obj_pedra_grande, obj_pedra_media, obj_pinheiro, obj_toco
 	]) {
     y += vvelo;
 }

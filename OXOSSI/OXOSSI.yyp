@@ -46,6 +46,7 @@
     {"id":{"name":"spr_estrutura_de_pedra_1","path":"sprites/spr_estrutura_de_pedra_1/spr_estrutura_de_pedra_1.yy",},},
     {"id":{"name":"spr_ground","path":"sprites/spr_ground/spr_ground.yy",},},
     {"id":{"name":"spr_mato","path":"sprites/spr_mato/spr_mato.yy",},},
+    {"id":{"name":"obj_toco","path":"objects/obj_toco/obj_toco.yy",},},
     {"id":{"name":"obj_estrutura_grande","path":"objects/obj_estrutura_grande/obj_estrutura_grande.yy",},},
     {"id":{"name":"obj_estrutura_grande_1","path":"objects/obj_estrutura_grande_1/obj_estrutura_grande_1.yy",},},
     {"id":{"name":"obj_casao","path":"objects/obj_casao/obj_casao.yy",},},
