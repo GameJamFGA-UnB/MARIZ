@@ -80,6 +80,7 @@
     {"id":{"name":"personagem_correndo_direita","path":"sprites/personagem_correndo_direita/personagem_correndo_direita.yy",},},
     {"id":{"name":"ts_estrada","path":"tilesets/ts_estrada/ts_estrada.yy",},},
     {"id":{"name":"spr_personagem_costas","path":"sprites/spr_personagem_costas/spr_personagem_costas.yy",},},
+    {"id":{"name":"obj_civilizado","path":"objects/obj_civilizado/obj_civilizado.yy",},},
     {"id":{"name":"spr_pedra_pequena","path":"sprites/spr_pedra_pequena/spr_pedra_pequena.yy",},},
     {"id":{"name":"spr_personagem_correndo_baixo","path":"sprites/spr_personagem_correndo_baixo/spr_personagem_correndo_baixo.yy",},},
     {"id":{"name":"personagem_correndo_cima","path":"sprites/personagem_correndo_cima/personagem_correndo_cima.yy",},},

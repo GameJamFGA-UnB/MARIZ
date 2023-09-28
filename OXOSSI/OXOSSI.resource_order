@@ -62,6 +62,7 @@
     {"name":"personagem_correndo_direita","order":48,"path":"sprites/personagem_correndo_direita/personagem_correndo_direita.yy",},
     {"name":"ts_estrada","order":2,"path":"tilesets/ts_estrada/ts_estrada.yy",},
     {"name":"spr_personagem_costas","order":15,"path":"sprites/spr_personagem_costas/spr_personagem_costas.yy",},
+    {"name":"obj_civilizado","order":22,"path":"objects/obj_civilizado/obj_civilizado.yy",},
     {"name":"spr_pedra_pequena","order":16,"path":"sprites/spr_pedra_pequena/spr_pedra_pequena.yy",},
     {"name":"spr_personagem_correndo_baixo","order":7,"path":"sprites/spr_personagem_correndo_baixo/spr_personagem_correndo_baixo.yy",},
     {"name":"personagem_correndo_cima","order":42,"path":"sprites/personagem_correndo_cima/personagem_correndo_cima.yy",},
