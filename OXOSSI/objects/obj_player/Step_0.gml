@@ -64,3 +64,7 @@ if hvelo == 0 and vvelo == 0{
 		break;
 	}
 }
+
+if keyboard_check_pressed(vk_escape) {
+	game_end();	
+}

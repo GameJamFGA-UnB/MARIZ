@@ -5,4 +5,4 @@ draw_set_font(fnt_interagir);
 draw_set_color(c_white);
 
 draw_set_halign(fa_center);
-draw_text(720, 600 + stringHeight, text);
+draw_text(660, 550, text);

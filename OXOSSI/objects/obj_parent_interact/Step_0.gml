@@ -3,7 +3,7 @@
 
 if distance_to_object(obj_player) < 15 {
 	if myPressKey == noone {
-		myPressKey = instance_create_layer(20,500, "interagir", obj_texto);
+		myPressKey = instance_create_layer(20,500, "interagir", obj_texto_interacao);
 	}
 	if keyboard_check(vk_space) {
 		if myTextbox == noone {
