@@ -1,20 +1,66 @@
 /// @description Movimentação
 // You can write your code in this editor
 
-var left = keyboard_check(vk_left);
-var right = keyboard_check(vk_right);
-var up = keyboard_check(vk_up);
-var down = keyboard_check(vk_down);
+var left = keyboard_check(ord("A")) or keyboard_check(vk_left);
+var right = keyboard_check(ord("D")) or keyboard_check(vk_right);
+var up = keyboard_check(ord("W")) or keyboard_check(vk_up);
+var down = keyboard_check(ord("S")) or keyboard_check(vk_down);
 
 var horMove = (right - left);
 var verMove = (down - up);
 
-hsp = horMove * 0.75;
-vsp = verMove * 0.75;
+hvelo = horMove * 0.75;
+vvelo = verMove * 0.75;
 
-if (!place_meeting(x + hsp, y, obj_wall)) {
-    x += hsp;
+var inBoundsX = x + hvelo > 0 and x + hvelo < room_width;
+var inBoundsY = y + vvelo > 0 and y + vvelo < room_height;
+
+if inBoundsX and !place_meeting(x + hvelo, y, obj_macaco)  {
+    x += hvelo;
 }
-if (!place_meeting(x, y + vsp, obj_wall)) {
-    y += vsp;
+if inBoundsY and !place_meeting(x, y + vvelo, obj_macaco) {
+    y += vvelo;
+}
+
+if right{
+	dir = 1;
+}else if up {
+	dir = 2;
+}else if left {
+	dir = 3;
+}else if down {
+	dir = 4;
+}
+
+if hvelo == 0 and vvelo == 0{
+	dir = floor((point_direction(x, y, mouse_x, mouse_y)+45)/90) + 1;
+	switch dir{
+		case 1:
+			sprite_index = spr_personagem_parado_direita
+		break;
+		case 2:
+			sprite_index = spr_personagem_parado_cima
+		break;
+		case 3:
+			sprite_index = spr_personagem_parado_esquerda
+		break;
+		case 4:
+			sprite_index = spr_personagem_parado_baixo
+		break;
+	}
+} else {
+	switch dir{
+		case 1:
+			sprite_index = spr_personagem_correndo_direita
+		break;
+		case 2:
+			sprite_index = spr_personagem_correndo_cima
+		break;
+		case 3:
+			sprite_index = spr_personagem_correndo_esquerda
+		break;
+		case 4:
+			sprite_index = spr_personagem_correndo_baixo
+		break;
+	}
 }
