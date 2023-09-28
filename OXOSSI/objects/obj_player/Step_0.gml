@@ -36,31 +36,31 @@ if hvelo == 0 and vvelo == 0{
 	dir = floor((point_direction(x, y, mouse_x, mouse_y)+45)/90);
 	switch dir{
 		case 0:
-			sprite_index = spr_personagem_parado_direita
+			sprite_index = personagem_parado_direita
 		break;
 		case 1:
-			sprite_index = spr_personagem_parado_cima
+			sprite_index = personagem_parado_cima
 		break;
 		case 2:
-			sprite_index = spr_personagem_parado_esquerda
+			sprite_index = personagem_parado_esquerda
 		break;
 		case 3:
-			sprite_index = spr_personagem_parado_baixo
+			sprite_index = personagem_parado_baixo
 		break;
 	}
 } else {
 	switch dir{
 		case 0:
-			sprite_index = spr_personagem_correndo_direita
+			sprite_index = personagem_correndo_direita
 		break;
 		case 1:
-			sprite_index = spr_personagem_correndo_cima
+			sprite_index = personagem_correndo_cima
 		break;
 		case 2:
-			sprite_index = spr_personagem_correndo_esquerda
+			sprite_index = personagem_correndo_esquerda
 		break;
 		case 3:
-			sprite_index = spr_personagem_correndo_baixo
+			sprite_index = personagem_correndo_baixo
 		break;
 	}
 }
