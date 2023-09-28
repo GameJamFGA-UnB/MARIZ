@@ -23,44 +23,44 @@ if inBoundsY and !place_meeting(x, y + vvelo, obj_macaco) {
 }
 
 if right{
-	dir = 0;
-}else if up {
 	dir = 1;
-}else if left {
+}else if up {
 	dir = 2;
-}else if down {
+}else if left {
 	dir = 3;
+}else if down {
+	dir = 4;
 }
 
 if hvelo == 0 and vvelo == 0{
-	dir = floor((point_direction(x, y, mouse_x, mouse_y)+45)/90);
+	dir = floor((point_direction(x, y, mouse_x, mouse_y)+45)/90) + 1;
 	switch dir{
-		case 0:
-			sprite_index = personagem_parado_direita
-		break;
 		case 1:
-			sprite_index = personagem_parado_cima
+			sprite_index = spr_personagem_parado_direita
 		break;
 		case 2:
-			sprite_index = personagem_parado_esquerda
+			sprite_index = spr_personagem_parado_cima
 		break;
 		case 3:
-			sprite_index = personagem_parado_baixo
+			sprite_index = spr_personagem_parado_esquerda
+		break;
+		case 4:
+			sprite_index = spr_personagem_parado_baixo
 		break;
 	}
 } else {
 	switch dir{
-		case 0:
-			sprite_index = personagem_correndo_direita
-		break;
 		case 1:
-			sprite_index = personagem_correndo_cima
+			sprite_index = spr_personagem_correndo_direita
 		break;
 		case 2:
-			sprite_index = personagem_correndo_esquerda
+			sprite_index = spr_personagem_correndo_cima
 		break;
 		case 3:
-			sprite_index = personagem_correndo_baixo
+			sprite_index = spr_personagem_correndo_esquerda
+		break;
+		case 4:
+			sprite_index = spr_personagem_correndo_baixo
 		break;
 	}
 }

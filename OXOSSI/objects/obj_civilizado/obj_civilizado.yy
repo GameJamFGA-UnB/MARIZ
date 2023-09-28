@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_personagem_parado_b",
+    "path": "sprites/spr_personagem_parado_b/spr_personagem_parado_b.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
