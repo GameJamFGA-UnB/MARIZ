@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "obj_arvore_2",
-    "path": "sprites/obj_arvore_2/obj_arvore_2.yy",
+    "name": "spr_arvore_2",
+    "path": "sprites/spr_arvore_2/spr_arvore_2.yy",
   },
   "spriteMaskId": null,
   "visible": true,

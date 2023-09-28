@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "obj_casinha_minecraft",
-    "path": "sprites/obj_casinha_minecraft/obj_casinha_minecraft.yy",
+    "name": "spr_casinha_minecraft_2",
+    "path": "sprites/spr_casinha_minecraft_2/spr_casinha_minecraft_2.yy",
   },
   "spriteMaskId": null,
   "visible": true,

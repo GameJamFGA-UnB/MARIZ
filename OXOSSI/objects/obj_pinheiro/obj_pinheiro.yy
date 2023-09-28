@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "obj_arvore_3",
-    "path": "sprites/obj_arvore_3/obj_arvore_3.yy",
+    "name": "spr_arvore_3",
+    "path": "sprites/spr_arvore_3/spr_arvore_3.yy",
   },
   "spriteMaskId": null,
   "visible": true,
