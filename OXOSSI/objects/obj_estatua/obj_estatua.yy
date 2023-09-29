@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_estatua_oxossi",
-    "path": "sprites/spr_estatua_oxossi/spr_estatua_oxossi.yy",
+    "name": "spr_estatua_oxossi56",
+    "path": "sprites/spr_estatua_oxossi56/spr_estatua_oxossi56.yy",
   },
   "spriteMaskId": null,
   "visible": true,
