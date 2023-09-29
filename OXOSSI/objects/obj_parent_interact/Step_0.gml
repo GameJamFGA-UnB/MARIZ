@@ -7,7 +7,7 @@ if distance_to_object(obj_player) < 15 {
 	}
 	if keyboard_check(vk_space) {
 		if myTextbox == noone {
-			myTextbox = instance_create_layer(20,500,"texto", obj_caixadetexto);	
+			myTextbox = instance_create_layer(27,485,"texto", obj_caixadetexto);	
 			myTextbox.text = myText;
 			myTextbox.creator = self;
 			myTextbox.name = myName;

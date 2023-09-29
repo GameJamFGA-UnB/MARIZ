@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_caixadetexto",
-  "bbox_bottom": 249,
+  "bbox_bottom": 208,
   "bbox_left": 0,
-  "bbox_right": 1324,
+  "bbox_right": 1224,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"93a2d164-632c-4e48-8e0c-a9de966abf9c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"67b42f1c-56c0-49b3-8ae7-fdc805dbcf06",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 250,
+  "height": 231,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"732a3ef7-25d9-4d8a-adef-c9979daf436e","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"d3a43806-247e-4bfc-9edb-4c0b5ce9dccd","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"93a2d164-632c-4e48-8e0c-a9de966abf9c","path":"sprites/spr_caixadetexto/spr_caixadetexto.yy",},},},"Disabled":false,"id":"4aad9628-3da1-43ea-8583-33772577bab4","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"67b42f1c-56c0-49b3-8ae7-fdc805dbcf06","path":"sprites/spr_caixadetexto/spr_caixadetexto.yy",},},},"Disabled":false,"id":"3715c8a8-b4ec-4783-9d1f-4e30fb327b72","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 1325,
+  "width": 1225,
 }
