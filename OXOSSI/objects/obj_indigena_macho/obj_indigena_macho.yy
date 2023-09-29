@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "indigena_homi_strip5",
-    "path": "sprites/indigena_homi_strip5/indigena_homi_strip5.yy",
+    "name": "indigena_homi2_strip5",
+    "path": "sprites/indigena_homi2_strip5/indigena_homi2_strip5.yy",
   },
   "spriteMaskId": null,
   "visible": true,

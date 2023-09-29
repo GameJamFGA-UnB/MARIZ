@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "indigena_muie_strip5",
-    "path": "sprites/indigena_muie_strip5/indigena_muie_strip5.yy",
+    "name": "indigena_muie2_strip5",
+    "path": "sprites/indigena_muie2_strip5/indigena_muie2_strip5.yy",
   },
   "spriteMaskId": null,
   "visible": true,
