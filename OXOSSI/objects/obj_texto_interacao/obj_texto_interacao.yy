@@ -1,16 +1,11 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-<<<<<<<< HEAD:OXOSSI/objects/obj_texto_interacao/obj_texto_interacao.yy
   "name": "obj_texto_interacao",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
-========
-  "name": "obj_pinheiro",
-  "eventList": [],
->>>>>>>> 77c4440163ff90858c19e7ea967250df0c52faea:OXOSSI/objects/obj_pinheiro/obj_pinheiro.yy
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -33,14 +28,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-<<<<<<<< HEAD:OXOSSI/objects/obj_texto_interacao/obj_texto_interacao.yy
   "spriteId": null,
-========
-  "spriteId": {
-    "name": "spr_arvore_3",
-    "path": "sprites/spr_arvore_3/spr_arvore_3.yy",
-  },
->>>>>>>> 77c4440163ff90858c19e7ea967250df0c52faea:OXOSSI/objects/obj_pinheiro/obj_pinheiro.yy
   "spriteMaskId": null,
   "visible": true,
 }
